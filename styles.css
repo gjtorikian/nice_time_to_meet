@@ -1,0 +1,21 @@
+.wrapper {
+    width: 350px;
+    height: 120px;
+    margin: 15px;
+}
+
+.selection {
+    max-width: 100%;
+}
+
+.btn {
+    margin-top: 15px;
+    width: 100%;
+}
+
+.removeBtn {
+    color: red;
+}
+.removeBtn:hover {
+    cursor: pointer;
+}
